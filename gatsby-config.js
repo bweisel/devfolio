@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `Ben Weisel | Software Engineer`,
     // Description that goes under your name in main bio
-    description: `Experienced leader and engineer, specializing in backend data development.`,
+    description: `Experienced engineer and leader specializing in backend data development.`,
     // Optional: Twitter account handle
     author: `@bweisel`,
     // Optional: Github account URL
@@ -28,29 +28,29 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Independent Consultant',
-        description: 'Software Engineer, April 2022 - Present',
+        name: 'Independent Consultant -- Denver, CO',
+        description: 'Software Architect, April 2022 - Present',
         link: '',
       },
       {
-        name: 'Uplight',
-        description: 'Director of Software Engineering, March 2020 - April 2022',
-        link: '',
+        name: 'Uplight -- Denver, CO',
+        description: 'Director of Engineering, March 2020 - April 2022',
+        link: 'https://www.linkedin.com/company/uplightenergy/',
       },
       {
-        name: 'Tendril Networks',
+        name: 'Tendril Networks -- Denver, CO',
         description: 'Engineering Manager, January 2016 - March 2020',
-        link: '',
+        link: 'https://www.linkedin.com/company/tendril/',
       },
       {
-        name: 'Publicis/Sapient',
+        name: 'Publicis/Sapient -- San Luis Obispo, CA',
         description: 'Senior Software Engineer, September 2012 - January 2016',
-        link: '',
+        link: 'https://www.linkedin.com/company/publicissapient/',
       },
       {
-        name: 'Publicis/Sapient',
+        name: 'Rosetta Marketing Group -- Cleveland, OH',
         description: 'Software Engineer, June 2010 - September 2012',
-        link: '',
+        link: 'https://www.linkedin.com/company/rosetta/',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -58,21 +58,21 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'Python, Flask, SQLAlchemy, Prefect, Airflow, Spark, SQL, Java, Javascript',
+          'Python, Flask, SQLAlchemy, SQL, Prefect, Airflow, Spark, DBT, Java, Javascript',
       },
       {
         name: 'Databases',
-        description: 'PostreSQL, MySQL, DynamoDB, Redshift, BigQuery',
+        description: 'PostreSQL, MySQL, DynamoDB, Redshift, BigQuery, Cassandra',
       },
       {
         name: 'Cloud & DevOps',
         description:
-          'Amazon Web Services (AWS), Google Cloud Platform (GCP)',
+          'Amazon Web Services (AWS), Google Cloud Platform (GCP), Docker, CI / CD',
       },
       {
         name: 'Other',
         description:
-          'Data Pipeline (ETL/ELT) Development, Microservices, API design, CI / CD, Docker, Agile / Scrum',
+          'Data Pipeline (ETL/ELT) Development, Microservices, API design, Agile / Scrum',
       },
     ],
   },
@@ -134,7 +134,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`, // This color appears on mobile
         display: `minimal-ui`,
-        icon: `src/images/icon.png`,
+        icon: `src/images/headshot.png`,
       },
     },
   ],
