@@ -1,58 +1,51 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://www.benweisel.com`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Ben Weisel',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Ben Weisel | Software Engineer`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Experienced leader and engineer, specializing in backend data development.`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    author: `@bweisel`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/bweisel`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/benweisel/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `Based in Denver, CO.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'NFL Margins',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'ChromeExtensionKit',
-        description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
-      },
-      {
-        name: 'Another Cool Project',
-        description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
+          'A site to host free NFL Margin pools to play with friends.',
+        link: 'https://www.nflmargins.com',
+      }
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Independent Consultant',
+        description: 'Software Engineer, April 2022 - Present'
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Uplight',
+        description: 'Director of Software Engineering, March 2020 - April 2022'
       },
       {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Tendril Networks',
+        description: 'Engineering Manager, January 2016 - March 2020'
+      },
+      {
+        name: 'Publicis/Sapient',
+        description: 'Senior Software Engineer, September 2012 - January 2016'
+      },
+      {
+        name: 'Publicis/Sapient',
+        description: 'Software Engineer, June 2010 - September 2012'
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -60,16 +53,21 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'Python, Flask, SQLAlchemy, Prefect, Airflow, Spark, SQL, Java, Javascript',
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        description: 'PostreSQL, MySQL, DynamoDB, Redshift, BigQuery',
+      },
+      {
+        name: 'Cloud & DevOps',
+        description:
+          'Amazon Web Services (AWS), Google Cloud Platform (GCP)',
       },
       {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Data Pipeline (ETL/ELT) Development, Microservices, API design, CI / CD, Docker, Agile / Scrum',
       },
     ],
   },
