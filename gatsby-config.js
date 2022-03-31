@@ -30,22 +30,27 @@ module.exports = {
       {
         name: 'Independent Consultant',
         description: 'Software Engineer, April 2022 - Present',
+        link: '',
       },
       {
         name: 'Uplight',
         description: 'Director of Software Engineering, March 2020 - April 2022',
+        link: '',
       },
       {
         name: 'Tendril Networks',
         description: 'Engineering Manager, January 2016 - March 2020',
+        link: '',
       },
       {
         name: 'Publicis/Sapient',
         description: 'Senior Software Engineer, September 2012 - January 2016',
+        link: '',
       },
       {
         name: 'Publicis/Sapient',
         description: 'Software Engineer, June 2010 - September 2012',
+        link: '',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
