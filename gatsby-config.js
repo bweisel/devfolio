@@ -29,23 +29,23 @@ module.exports = {
     experience: [
       {
         name: 'Independent Consultant',
-        description: 'Software Engineer, April 2022 - Present'
+        description: 'Software Engineer, April 2022 - Present',
       },
       {
         name: 'Uplight',
-        description: 'Director of Software Engineering, March 2020 - April 2022'
+        description: 'Director of Software Engineering, March 2020 - April 2022',
       },
       {
         name: 'Tendril Networks',
-        description: 'Engineering Manager, January 2016 - March 2020'
+        description: 'Engineering Manager, January 2016 - March 2020',
       },
       {
         name: 'Publicis/Sapient',
-        description: 'Senior Software Engineer, September 2012 - January 2016'
+        description: 'Senior Software Engineer, September 2012 - January 2016',
       },
       {
         name: 'Publicis/Sapient',
-        description: 'Software Engineer, June 2010 - September 2012'
+        description: 'Software Engineer, June 2010 - September 2012',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
