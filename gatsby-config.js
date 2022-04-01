@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `Ben Weisel | Software Engineer`,
     // Description that goes under your name in main bio
-    description: `Experienced engineer and leader specializing in backend data development.`,
+    description: `Experienced engineer and leader for developing complex, data-driven applications.`,
     // Optional: Twitter account handle
     author: `@bweisel`,
     // Optional: Github account URL
@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/benweisel/`,
     // Content of the About Me section
-    about: `Based in Denver, CO.`,
+    about: `Currently working on Cleaning the Glass. Based in Denver, CO.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -28,27 +28,27 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Independent Consultant -- Denver, CO',
-        description: 'Software Architect, April 2022 - Present',
+        name: 'Tall Tree Software',
+        description: 'Founder, Software Architect, April 2022 - Present',
         link: '',
       },
       {
-        name: 'Uplight -- Denver, CO',
+        name: 'Uplight',
         description: 'Director of Engineering, March 2020 - April 2022',
         link: 'https://www.linkedin.com/company/uplightenergy/',
       },
       {
-        name: 'Tendril Networks -- Denver, CO',
+        name: 'Tendril',
         description: 'Engineering Manager, January 2016 - March 2020',
         link: 'https://www.linkedin.com/company/tendril/',
       },
       {
-        name: 'Publicis/Sapient -- San Luis Obispo, CA',
-        description: 'Senior Software Engineer, September 2012 - January 2016',
+        name: 'Publicis Sapient',
+        description: 'Lead Software Engineer, September 2012 - January 2016',
         link: 'https://www.linkedin.com/company/publicissapient/',
       },
       {
-        name: 'Rosetta Marketing Group -- Cleveland, OH',
+        name: 'Rosetta Marketing Group',
         description: 'Software Engineer, June 2010 - September 2012',
         link: 'https://www.linkedin.com/company/rosetta/',
       },
@@ -58,16 +58,16 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'Python, Flask, SQLAlchemy, SQL, Prefect, Airflow, Spark, DBT, Java, Javascript',
+          'Python, Flask, FastAPI, SQLAlchemy, SQL, Prefect, Airflow, Spark, DBT, Java, Javascript',
       },
       {
-        name: 'Databases',
-        description: 'PostreSQL, MySQL, DynamoDB, Redshift, BigQuery, Cassandra',
+        name: 'Databases & Storage',
+        description: 'PostreSQL, MySQL, DynamoDB, Redshift, BigQuery, Cassandra, S3, GCS, Databricks',
       },
       {
         name: 'Cloud & DevOps',
         description:
-          'Amazon Web Services (AWS), Google Cloud Platform (GCP), Docker, CI / CD',
+          'Amazon Web Services (AWS), Google Cloud Platform (GCP), Docker, Terraform, CI / CD',
       },
       {
         name: 'Other',
