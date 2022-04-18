@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `Ben Weisel | Software Engineer`,
     // Description that goes under your name in main bio
-    description: `Experienced engineer and leader for developing complex, data-driven applications.`,
+    description: `Experienced engineering lead for developing complex, data-driven applications using pragmatic solutions.`,
     // Optional: Twitter account handle
     author: `@bweisel`,
     // Optional: Github account URL
@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/benweisel/`,
     // Content of the About Me section
-    about: `Currently working on Cleaning the Glass. Based in Denver, CO.`,
+    about: `Currently working on <a href='https://www.cleaningtheglass.com'>Cleaning the Glass</a>. Based in Denver, CO.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -30,7 +30,7 @@ module.exports = {
       {
         name: 'Tall Tree Software',
         description: 'Founder, Software Architect, April 2022 - Present',
-        link: '',
+        link: 'https://www.benweisel.com',
       },
       {
         name: 'Uplight',
