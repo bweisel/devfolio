@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `Ben Weisel | Software Engineer`,
     // Description that goes under your name in main bio
-    description: `Experienced engineering lead for developing complex, data-driven applications using pragmatic solutions.`,
+    description: `Experienced engineering lead for developing complex, data-driven applications.`,
     // Optional: Twitter account handle
     author: `@bweisel`,
     // Optional: Github account URL
@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/benweisel/`,
     // Content of the About Me section
-    about: `Currently working on <a href='https://www.cleaningtheglass.com'>Cleaning the Glass</a>. Based in Denver, CO.`,
+    about: `Currently working on Cleaning the Glass. Based in Denver, CO.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -28,28 +28,33 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
+        name: 'Cleaning the Glass',
+        description: 'Software Architect; April 2022 - Present',
+        link: 'https://www.cleaningtheglass.com',
+      },
+      {
         name: 'Tall Tree Software',
-        description: 'Founder, Software Architect, April 2022 - Present',
+        description: 'Founder, Software Architect; April 2022 - Present',
         link: 'https://www.benweisel.com',
       },
       {
         name: 'Uplight',
-        description: 'Director of Engineering, March 2020 - April 2022',
+        description: 'Director of Engineering; March 2020 - April 2022',
         link: 'https://www.linkedin.com/company/uplightenergy/',
       },
       {
         name: 'Tendril',
-        description: 'Engineering Manager, January 2016 - March 2020',
+        description: 'Engineering Manager; January 2016 - March 2020',
         link: 'https://www.linkedin.com/company/tendril/',
       },
       {
         name: 'Publicis Sapient',
-        description: 'Lead Software Engineer, September 2012 - January 2016',
+        description: 'Lead Software Engineer; September 2012 - January 2016',
         link: 'https://www.linkedin.com/company/publicissapient/',
       },
       {
         name: 'Rosetta Marketing Group',
-        description: 'Software Engineer, June 2010 - September 2012',
+        description: 'Software Engineer; June 2010 - September 2012',
         link: 'https://www.linkedin.com/company/rosetta/',
       },
     ],
