@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `Ben Weisel | Software Engineer`,
     // Description that goes under your name in main bio
-    description: `Experienced engineering lead for developing complex, data-driven applications.`,
+    description: `Experienced engineering leader specialized in developing complex, data-driven applications.`,
     // Optional: Twitter account handle
     author: `@bweisel`,
     // Optional: Github account URL
@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/benweisel/`,
     // Content of the About Me section
-    about: `Currently working on Cleaning the Glass. Based in Denver, CO.`,
+    about: `Currently building advanced NBA Analytics for Cleaning the Glass. Based in Denver, CO.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -127,7 +127,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: `ADD YOUR TRACKING ID HERE`, // Optional Google Analytics
+        trackingId: `G-M5CWLL101Q`, // Optional Google Analytics
       },
     },
     {
