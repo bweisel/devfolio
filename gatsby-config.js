@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `Ben Weisel | Software Engineer`,
     // Description that goes under your name in main bio
-    description: `Experienced engineering leader specialized in developing complex, data-driven applications.`,
+    description: `Experienced software engineer and leader specialized in developing complex, data-driven applications.`,
     // Optional: Twitter account handle
     author: `@bweisel`,
     // Optional: Github account URL
@@ -34,7 +34,7 @@ module.exports = {
       },
       {
         name: 'Tall Tree Software',
-        description: 'Founder, Software Architect; April 2022 - Present',
+        description: 'Founder; April 2022 - Present',
         link: 'https://www.benweisel.com',
       },
       {
