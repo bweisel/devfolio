@@ -61,9 +61,14 @@ module.exports = {
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
-        name: 'Languages & Frameworks',
+        name: 'Languages',
         description:
-          'Python, Flask, FastAPI, SQLAlchemy, SQL, Prefect, Airflow, Spark, DBT, Java, Javascript',
+          'Python, SQL, JavaScript, TypeScript, Java',
+      },
+      {
+        name: 'Frameworks',
+        description:
+          'Flask, FastAPI, SQLAlchemy, Prefect, DBT, Airflow, Spark',
       },
       {
         name: 'Databases & Storage',
@@ -128,7 +133,7 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: `G-M5CWLL101Q`, // Optional Google Analytics
-        head: false,
+        head: true,
         respectDNT: true,
       },
     },
