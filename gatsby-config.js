@@ -15,7 +15,9 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/benweisel/`,
     // Content of the About Me section
-    about: `Currently building advanced NBA Analytics for Cleaning the Glass. Based in Denver, CO.`,
+    about: `Currently building advanced NBA basketball analytics at Cleaning the Glass. 
+    Over a decade of experience building and/or leading the development of web applications of all shapes and sizes.
+    Based in Denver, CO.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
