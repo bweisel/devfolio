@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `Ben Weisel | Software Engineer`,
     // Description that goes under your name in main bio
-    description: `Experienced software engineer and leader specialized in developing complex, data-driven applications.`,
+    description: `Principal software engineer and leader specialized in developing complex, data-driven applications.`,
     // Optional: Twitter account handle
     author: `@bweisel`,
     // Optional: Github account URL
@@ -29,7 +29,7 @@ module.exports = {
     experience: [
       {
         name: 'Cleaning the Glass',
-        description: 'Software Architect; April 2022 - Present',
+        description: 'Principal Engineer; April 2022 - Present',
         link: 'https://www.cleaningtheglass.com',
       },
       {
@@ -63,26 +63,26 @@ module.exports = {
       {
         name: 'Languages',
         description:
-          'Python, SQL, JavaScript, TypeScript, Java',
+          'Python, SQL, JavaScript, TypeScript, Java, HTML, CSS',
       },
       {
         name: 'Frameworks',
         description:
-          'Flask, FastAPI, SQLAlchemy, Prefect, DBT, Airflow, Spark',
+          'Flask, FastAPI, SQLAlchemy, Prefect, DBT, Spark, Vue, Nuxt.js',
       },
       {
         name: 'Databases & Storage',
-        description: 'PostreSQL, MySQL, DynamoDB, Redshift, BigQuery, Cassandra, S3, GCS, Databricks',
+        description: 'PostreSQL, ClickHouse, DynamoDB, Redshift, BigQuery, Databricks, S3, GCS',
       },
       {
         name: 'Cloud & DevOps',
         description:
-          'Amazon Web Services (AWS), Google Cloud Platform (GCP), Docker, Terraform, CI / CD',
+          'Amazon Web Services (AWS), Google Cloud Platform (GCP), Docker, CloudFormation, CI / CD',
       },
       {
         name: 'Other',
         description:
-          'Data Pipeline (ETL/ELT) Development, Microservices, API design, Agile / Scrum',
+          'Data Pipeline (ETL/ELT) Development, Microservices, API Design, Data Modeling, Data Warehousing, Data Science & Analytics',
       },
     ],
   },
